@@ -7,12 +7,13 @@ You can split your configuration into multiple single files, and then use the sc
 
 
 
+
 Example:
-========
+--------
 
 You will find an example in the exaple directory:
 - logstash_template.conf (This is the template and a normal Logstash config file except the includes):
-- Three configs wich are included in the template
+- Three configs which are included in the template within the "conf" directory
 
 
 
