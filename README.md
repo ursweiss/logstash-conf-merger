@@ -1,5 +1,5 @@
-Loggstash Config Merger
-=======================
+Logstash Config Merger
+======================
 This script helps you to have a cleaner and modular configuration for logstash.
 
 You can split your configuration into multiple single files, and then use the script to merge them together to one single file for Logstash.
