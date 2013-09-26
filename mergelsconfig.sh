@@ -18,7 +18,7 @@ LS_CONF_BAK_EXT=".bak"
 # IMPORTANT:
 #   To work correctly "{" has to be the last, and "}" the first character
 #   in line. Whitespaces in front of "}" are fine. No comments behind "{"!
-LS_CONF_FORMAT=false
+LS_CONF_FORMAT=true
 
 # Indent to use:
 LS_CONF_INDENT="  "
