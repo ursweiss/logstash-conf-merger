@@ -31,7 +31,7 @@ You will find an example in the exaple directory:
 
 Execute the script (writes to logstash.conf in current directory by default!):
 
-./mergelsconfig
+./mergelsconfig.sh
 
 
 Done. You now should have a complete Logstash config in "logstash.conf"
